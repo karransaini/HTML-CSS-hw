@@ -1,0 +1,44 @@
+/* Overall Theme */
+nav {
+  min-height: 100px;
+  padding: 10px;
+  margin: 10px;
+  font-weight: 800;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 100;
+  background-color: rgb(240, 185, 64);
+}
+
+.left-box {
+  background-color: tan;
+  margin: 2px;
+  padding: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.right-box {
+  background-color: tan;
+  margin: 2x;
+  padding: 10px;
+}
+
+.table-responsive {
+  overflow:scroll;
+  height:400px;
+}
+
+/* Max Temperature */
+.temp-descrip {
+  text-align: left;
+}
+
+.container {
+  text-align: center;
+}
+
+.nav-item {
+  background: beige;
+  border-radius: 40px;
+}
+
